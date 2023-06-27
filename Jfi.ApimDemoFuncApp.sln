@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jfi.ApimDemoFuncApp.Users", "Jfi.ApimDemoFuncApp.Users\Jfi.ApimDemoFuncApp.Users.csproj", "{80EEFD80-321A-4749-9A80-4DE6813B3AB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EEFD80-321A-4749-9A80-4DE6813B3AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EEFD80-321A-4749-9A80-4DE6813B3AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EEFD80-321A-4749-9A80-4DE6813B3AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EEFD80-321A-4749-9A80-4DE6813B3AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
